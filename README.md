@@ -44,6 +44,8 @@ State4ML - 機械学習に関する声明
 	[`State4ML-G`](State4ML-G+BY/ja.md)、[`State4ML-NC`](State4ML-NC+BY/ja.md)に付けることができます。機械学習への利用時に、データソースの明記を義務付けます。
 - `+EP`\
 	[`State4ML-G`](State4ML-G+EP/ja.md)、[`State4ML-NC`](State4ML-NC+EP/ja.md)、[`State4ML-E`](State4ML-E+EP/ja.md)に付けることができます。個人の特定や模倣を制限します。
+- `+BY+EP`\
+	[`State4ML-G`](State4ML-G+BY+EP/ja.md)、[`State4ML-NC`](State4ML-NC+BY+EP/ja.md)に付けることができます。`+BY` と `+EP` の組み合わせを意味します。
 
 ## ライセンス
 
