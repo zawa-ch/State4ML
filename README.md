@@ -35,6 +35,14 @@ State4ML - 機械学習に関する声明
 - [`State4ML-R`](State4ML-R/ja.md)\
 	機械学習への利用に関して、常に許諾を必要とするものです。
 
+### 修飾子
+
+いくつかの声明には、特定の条件を付加する派生が存在します。
+適用するためには、対応するショートコードに次の修飾子を付けてください。
+
+- `+BY`\
+	[`State4ML-G`](State4ML-G+BY/ja.md)、[`State4ML-NC`](State4ML-NC+BY/ja.md)に付けることができます。機械学習への利用時に、データソースの明記を義務付けます。
+
 ## ライセンス
 
 Copyright 2025 zawa-ch. All rights reserved.
